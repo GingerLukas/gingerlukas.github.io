@@ -1,4 +1,4 @@
-/// <reference path="../node_modules/monaco-editor/monaco.d.ts"/>
+/// <reference path="../wwwroot/node_modules/monaco-editor/monaco.d.ts"/>
 var CompletionItemKind = monaco.languages.CompletionItemKind;
 var CompletionItem = /** @class */ (function () {
     function CompletionItem(label, kind) {
