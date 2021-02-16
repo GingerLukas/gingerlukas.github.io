@@ -89,11 +89,11 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-p5OgZh1A3Rw\/exb+rPygGmhQR4yNaC1O+oo3dG6JK3c=",
+      "hash": "sha256-9venZPduuzy5dZQ1COiDwBoCgNnMUDr+0iOlFG7hxyw=",
       "url": "out\/main.js"
     },
     {
-      "hash": "sha256-sjEU3ZN40dsUPf4RuA\/Wa2INBYtwNaA+TaRJ7PB1y7Q=",
+      "hash": "sha256-e3gJJXatXMyRL4OyHRlyTNUE6+dbhDynFbeUE2aFkjE=",
       "url": "out\/main.js.map"
     },
     {
@@ -273,11 +273,11 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-vJIEZNaoFaePcKkZU6MoU3Dat+ay2FawOq7bAd0qWiE=",
+      "hash": "sha256-mqOd3hnKBTikPOUedQcotfTjTlusmmUA+S10CxCmYzo=",
       "url": "_framework\/GreyHackTools.dll"
     },
     {
-      "hash": "sha256-e+2TSb9oFr47RBwq8tqQeVy1BFuAutJfh+8FPmSC\/2Y=",
+      "hash": "sha256-7ZrDtyEyyCLzsJne6qCU9W0YJh737413u4x6Z1OHjDw=",
       "url": "_framework\/Miniscript.dll"
     },
     {
@@ -385,7 +385,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-4YZF233icPiTIZRpkPCUHUu4yvDL2mG6e9V5B8lqJrY=",
+      "hash": "sha256-uEo6oCDQkpvlGyZ3jP5JMXhhJcxBJMp84mt7\/xWRxFg=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -393,5 +393,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "o5j0o7Vx"
+  "version": "ZcWFBq9J"
 };
