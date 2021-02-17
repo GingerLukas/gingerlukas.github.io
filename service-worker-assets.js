@@ -273,11 +273,11 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-N7OmVCZkZejc0TFZGMc9BXvfh0Xxeduddt54jGxivOs=",
+      "hash": "sha256-v\/HAk1zWGu4RemfZZONwNWdVWNnXmJlnBfsr4nQ5qNA=",
       "url": "_framework\/GreyHackTools.dll"
     },
     {
-      "hash": "sha256-K6ExH8Ns8NGO1NC2N7IbAxx7bS2pLKvm+fXBD3z8o9g=",
+      "hash": "sha256-3l7fO4j1cmBYpRvVVfy23IuWffYGsyaBhGlbdKN2GLQ=",
       "url": "_framework\/Miniscript.dll"
     },
     {
@@ -385,7 +385,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-HOws5\/FODclp\/IhvuZN2kXLG3C6e6QHLlf1AzMFzyLc=",
+      "hash": "sha256-5qXr\/bkPpJztPejgTH68w8MaLvIuSPmrMXfSFT9ptUs=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -393,5 +393,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "nifeupf8"
+  "version": "Te8CjpiI"
 };
